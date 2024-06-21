@@ -1,0 +1,4 @@
+#npm init -y
+create file like app.js
+npm i express
+npm i mongoose
